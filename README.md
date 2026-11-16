@@ -1,13 +1,5 @@
-<img width="2048" height="819" alt="image" src="https://github.com/user-attachments/assets/6ce84ae3-b23a-4f55-a2e1-1b9d5b177db5" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/7db0f56f-cb06-49b8-9520-492eb942a0df" />
 
-
-<div align="center">
-
-# María Gómez
-
-### Data Analyst | Machine Learning | Business Intelligence
-
-**PYTHON · SQL · POWER BI · MACHINE LEARNING · DATA SCIENCE**
 
 </div>
 
